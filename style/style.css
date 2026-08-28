@@ -407,6 +407,10 @@ footer {
         width: 100%;
     }
 
+    main .content-harga .judul {
+        padding-left: 25px;
+    }
+
     main .content-layanan {
         padding: 2rem 1.5rem;
     }
